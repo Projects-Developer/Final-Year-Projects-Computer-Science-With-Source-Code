@@ -8,6 +8,11 @@ Final Year Projects Computer Science With Source Code Includes Source Code, PPT,
 3. Steganography Project Cryptography Project	https://youtu.be/FQdPvUdWco8?si=aQCpsBIH7Wz9TGV1
 4. Diffie Hellman Key Exchange Algorithm Cryptography Project	https://youtu.be/KgGjLN0w4Zw?si=XV419oEuZOq2893-
 5. GIF Malware Detection Project	https://youtu.be/3JQ9uPETJCQ?si=5Jq5Bd1C3x_Bup6r
+6	Malware Detection Using Deep Learning Project	https://youtu.be/f-JRYJWVKKE?si=GuebwSt9chYyjZzT
+7	Malware Detection Using Machine learning and Deep Learning	https://youtu.be/sytw02floHA?si=NuQLL1U0O5c8eGTl
+8	Android Malware Detection Project	https://youtu.be/Qfrshjn38JY?si=LW_NAISMzr8N_j7H
+9	Malware detection project	https://youtu.be/o7W1fRSxci0?si=rWFzs_5PijmSd8-p
+10 Network Intrusion Detection Using Machine Learning Project	https://youtu.be/fUMWwDYPjOk?si=QEy_uIox6nJpACMw
 
 ### Project include: 
 
